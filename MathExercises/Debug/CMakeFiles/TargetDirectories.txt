@@ -1,0 +1,3 @@
+/home/sebas/Escritorio/Universidad/Math-Exercises-Math-Problems/MathExercises/Debug/CMakeFiles/MathExercises.dir
+/home/sebas/Escritorio/Universidad/Math-Exercises-Math-Problems/MathExercises/Debug/CMakeFiles/edit_cache.dir
+/home/sebas/Escritorio/Universidad/Math-Exercises-Math-Problems/MathExercises/Debug/CMakeFiles/rebuild_cache.dir
